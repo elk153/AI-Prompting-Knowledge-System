@@ -167,8 +167,7 @@ Access date for all web references below: **2026-11-14**.
 
 | Type | Author / organisation | Title | URL | Why it matters |
 |---|---|---|---|---|
-| Primary documentation | OpenAI | Understanding and counting tokens | https://help.openai.com/en/articles/4936856-what-are-tokens | Explains tokenisation and practical token-count estimates; product-specific details may change. |
-| Primary documentation | OpenAI | Key concepts: Tokens | https://developers.openai.com/api/docs/concepts | Explains tokens and context-length implications in the API context. |
+| Primary documentation | OpenAI | Understanding and counting tokens | https://help.openai.com/en/articles/4936856-understanding-and-counting-tokens | Explains tokenisation and practical token-count estimates; product-specific details may change. |
 | Primary documentation | Anthropic | Context windows | https://platform.claude.com/docs/en/build-with-claude/context-windows | Describes context-window accounting, tool use and context management for Claude. |
 | Primary documentation | Google AI for Developers | Understand and count tokens | https://ai.google.dev/gemini-api/docs/tokens | Describes tokenisation and token counting for Gemini, including non-text inputs. |
 | Research paper | Vaswani et al. (2017) | Attention Is All You Need | https://arxiv.org/abs/1706.03762 | Original Transformer architecture paper; useful technical foundation, not a complete description of every current LLM. |

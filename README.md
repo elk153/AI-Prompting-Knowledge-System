@@ -1,8 +1,8 @@
 # AI Prompting Knowledge System
 
-**Version:** 1.1  
+**Version:** 1.2  
 **Updated:** 2026-11-14  
-**Status:** Programme blueprint; lessons not yet generated.
+**Status:** D001 lesson generated and reviewed; learner completion pending.
 
 ## Purpose
 
@@ -27,6 +27,7 @@ Use Git commits as the durable change history. ChatGPT Project uploads and local
 | `LESSON_TEMPLATE.md` | Standard contract for every generated lesson |
 | `REFERENCES.md` | Recognised primary references and evidence principles |
 | `L###-short-title.md` | Individual lesson artifacts created as decisions are executed |
+| `L001-mental-models-of-llms.md` | D001 lesson: practical mental model of LLMs, capabilities and limitations |
 
 ## Recommended setup
 
@@ -86,6 +87,10 @@ A lesson must contain:
 - A transfer task that applies the skill to a different model or tool.
 - Limitations, failure modes, safety/privacy considerations and tool-selection guidance.
 - A short reflection and a recordable assessment result.
+
+## Current progress
+
+- **D001 — GENERATED:** [L001: A Practical Mental Model of Large Language Models](L001-mental-models-of-llms.md) has been created and reviewed against the lesson quality gate. Exercises and learner assessment remain pending; D002 has not been executed.
 
 ## Measurement principles
 

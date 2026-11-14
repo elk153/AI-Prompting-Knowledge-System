@@ -161,7 +161,7 @@ For each decision:
 
   Date   Decision   Lesson file   Status                      Assessment / notes
   ------ ---------- ------------- --------------------------- -------------------------
-  ---    ---        ---           No decisions executed yet   Initial backlog created
+  2026-11-14 D001       L001-mental-models-of-llms.md GENERATED    Lesson generated and reviewed against README quality gate; source links checked; learner exercises and assessment remain pending.
 
 ## Change log
 

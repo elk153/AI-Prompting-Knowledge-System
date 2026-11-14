@@ -27,7 +27,7 @@ decision generates exactly one lesson using `LESSON_TEMPLATE.md`.
   ID                   Level Chapter     Decision / lesson  Dependencies   Status
                                          outcome                           
   ----------- -------------- ----------- ------------------ -------------- -----------
-  D001                     1 1           Establish a        ---            READY
+  D001                     1 1           Establish a        ---            GENERATED
                                          practical mental                  
                                          model of LLMs,                    
                                          capabilities and                  
@@ -165,5 +165,6 @@ For each decision:
 
 ## Change log
 
+-   2026-11-14 --- v1.1: Executed D001; generated and reviewed L001. Status set to GENERATED because learner exercises and assessment are not yet complete.
 -   2026-11-14 --- v1.0: Initial 20-decision backlog created from the
     17-chapter roadmap.
